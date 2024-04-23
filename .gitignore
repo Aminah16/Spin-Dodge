@@ -1,0 +1,25 @@
+
+
+# Ignore
+
+/Assets/Development
+
+/Library/
+
+/Logs/
+
+/obj/
+
+/Temp/
+
+/UserSettings/
+
+/.vs/
+
+.vsconfig
+
+Assembly-CSharp.csproj
+
+NewGame.sln
+
+SpinDodge.sln
